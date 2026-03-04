@@ -1,0 +1,6 @@
+Trang web được xây dựng hoàn toàn bằng HTML theo cấu trúc semantic chuẩn.
+Em sử dụng các thẻ header, section, main và footer để phân chia nội dung rõ ràng.
+Bảng thời khóa biểu được tạo bằng thẻ table, có caption để mô tả nội dung bảng.
+Ảnh chân dung được chèn bằng thẻ img và đặt cùng thông tin sinh viên.
+Trang Google Search được mô phỏng lại giao diện cơ bản bằng form và input.
+Toàn bộ trang không sử dụng CSS hay Javascript theo đúng yêu cầu bài tập.
